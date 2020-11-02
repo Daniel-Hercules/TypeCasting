@@ -1,0 +1,13 @@
+C:\Users\D.Hercules (HISCOX)\Documents\C# Projects (Practice, Training, Research, Personal Projects)\Type Casting\Type Casting\bin\Debug\netcoreapp3.1\Type Casting.exe
+C:\Users\D.Hercules (HISCOX)\Documents\C# Projects (Practice, Training, Research, Personal Projects)\Type Casting\Type Casting\bin\Debug\netcoreapp3.1\Type Casting.deps.json
+C:\Users\D.Hercules (HISCOX)\Documents\C# Projects (Practice, Training, Research, Personal Projects)\Type Casting\Type Casting\bin\Debug\netcoreapp3.1\Type Casting.runtimeconfig.json
+C:\Users\D.Hercules (HISCOX)\Documents\C# Projects (Practice, Training, Research, Personal Projects)\Type Casting\Type Casting\bin\Debug\netcoreapp3.1\Type Casting.runtimeconfig.dev.json
+C:\Users\D.Hercules (HISCOX)\Documents\C# Projects (Practice, Training, Research, Personal Projects)\Type Casting\Type Casting\bin\Debug\netcoreapp3.1\Type Casting.dll
+C:\Users\D.Hercules (HISCOX)\Documents\C# Projects (Practice, Training, Research, Personal Projects)\Type Casting\Type Casting\bin\Debug\netcoreapp3.1\Type Casting.pdb
+C:\Users\D.Hercules (HISCOX)\Documents\C# Projects (Practice, Training, Research, Personal Projects)\Type Casting\Type Casting\obj\Debug\netcoreapp3.1\Type Casting.csprojAssemblyReference.cache
+C:\Users\D.Hercules (HISCOX)\Documents\C# Projects (Practice, Training, Research, Personal Projects)\Type Casting\Type Casting\obj\Debug\netcoreapp3.1\Type Casting.AssemblyInfoInputs.cache
+C:\Users\D.Hercules (HISCOX)\Documents\C# Projects (Practice, Training, Research, Personal Projects)\Type Casting\Type Casting\obj\Debug\netcoreapp3.1\Type Casting.AssemblyInfo.cs
+C:\Users\D.Hercules (HISCOX)\Documents\C# Projects (Practice, Training, Research, Personal Projects)\Type Casting\Type Casting\obj\Debug\netcoreapp3.1\Type Casting.csproj.CoreCompileInputs.cache
+C:\Users\D.Hercules (HISCOX)\Documents\C# Projects (Practice, Training, Research, Personal Projects)\Type Casting\Type Casting\obj\Debug\netcoreapp3.1\Type Casting.dll
+C:\Users\D.Hercules (HISCOX)\Documents\C# Projects (Practice, Training, Research, Personal Projects)\Type Casting\Type Casting\obj\Debug\netcoreapp3.1\Type Casting.pdb
+C:\Users\D.Hercules (HISCOX)\Documents\C# Projects (Practice, Training, Research, Personal Projects)\Type Casting\Type Casting\obj\Debug\netcoreapp3.1\Type Casting.genruntimeconfig.cache
